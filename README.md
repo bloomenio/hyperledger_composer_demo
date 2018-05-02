@@ -23,7 +23,7 @@ Participants : Media Content Publishers and Consumers
 * MySQL
 * Hyperledger Explorer Ιnstallation
 
-## Starting Fabric
+## Initializing Hyperledger Fabric Network
 ```
 cd fabric-dev-servers
 ./startFabric.sh
@@ -31,5 +31,19 @@ cd fabric-dev-servers
 ./createPeerAdminCard.sh
 ```
 
+## Initializing Hyperledger Composer Application
+```
+cd ../news-composer
+composer archive create -t dir -n .
+
+composer runtime install --card PeerAdmin@hlfv1 --businessNetworkName news-network
+
+composer network start --card PeerAdmin@hlfv1 --networkAdmin admin --networkAdminEnrollSecret adminpw --archiveFile news-network@1.1.0.bna --file networkadmin.card
+
+composer card import --file networkadmin.card
+
+composer-rest-server
+```
+Now you are ready to browse the REST API at http://localhost:3000!
 
 To be completed...
