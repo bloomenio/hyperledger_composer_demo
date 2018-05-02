@@ -14,7 +14,7 @@ Participants : Media Content Publishers and Consumers
 * Query powered from Hyperledger Composer (Extra Feature)
 * Changing Metadata powered from Hyperledger Composer (Extra Feature)
 * Simple token payments
-* Exploring all transactions in blockchain using Hyperledger Explorer Project at https://localhost:9090
+* Exploring all transactions in blockchain using Hyperledger Explorer Project 
 
 
 ## Prerequisites
@@ -46,4 +46,13 @@ composer-rest-server
 ```
 Now you are ready to browse the REST API at http://localhost:3000!
 
-To be completed...
+## Initializing Hyperledger Explorer 
+```
+cd ../blockchain-explorer
+mysql -u<username> -p < db/fabricexplorer.sql
+npm install
+./start.sh
+```
+You can also process config.json file as you want!
+Now you can access your Hyperledger Blockchain at http://localhost:9090
+
