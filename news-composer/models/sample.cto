@@ -1,0 +1,74 @@
+/**
+ * Sample business network definition.
+ */
+namespace org.acme.sample
+
+asset Newsdata identified by newsId {
+  o String newsId
+  --> User publisher
+  o String title
+  o String description
+  o String urls
+  o Double value
+  o Boolean published
+}
+
+participant User identified by userId {
+  o String userId
+  o String firstName
+  o String lastName
+  o Double balance
+  o Double reputation
+}
+
+transaction BuyNewsTransaction {
+  --> Newsdata newsdata
+  --> User consumer
+}
+ 
+
+
+transaction Payment {
+  --> User payer
+  --> User receiving
+  o Double value
+}
+
+transaction Credit {
+  --> User requester
+}
+
+transaction ChangeUrl {
+  --> Newsdata newsdata
+  --> User publisher
+  o String newurl
+}
+
+event BuyEvent {
+  o String eventName
+  --> Newsdata newsdata
+  --> User publisher
+  --> User consumer
+}
+
+
+
+event PayEvent {
+  o String eventName
+  --> User payer
+  --> User consumer
+}
+
+event CreditEvent {
+  o String eventName
+  --> User requester
+}
+
+event ChangeUrlEvent {
+  o String eventName
+  --> Newsdata newsdata
+}
+
+event ErrorEvent {
+  o String eventName
+}

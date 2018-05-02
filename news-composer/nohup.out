@@ -1,0 +1,502 @@
+? Enter the name of the business network card to use: [54D[54C
+
+events.js:183
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+Discovering types from business network definition ...
+Discovered types from business network definition
+Generating schemas for all types in business network definition ...
+Registering named query: selectExpensiveAssets
+Registering named query: selectAssetsbyOwner
+Generated schemas for all types in business network definition
+Adding schemas for all types to Loopback ...
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Added schemas for all types to Loopback
+Web server listening at: http://localhost:3000
+Browse your REST API at http://localhost:3000/explorer
+Discovering types from business network definition ...
+Discovered types from business network definition
+Generating schemas for all types in business network definition ...
+Registering named query: selectExpensiveAssets
+Registering named query: selectAssetsbyOwner
+Generated schemas for all types in business network definition
+Adding schemas for all types to Loopback ...
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Added schemas for all types to Loopback
+Web server listening at: http://localhost:3000
+Browse your REST API at http://localhost:3000/explorer
+Discovering types from business network definition ...
+Discovered types from business network definition
+Generating schemas for all types in business network definition ...
+Registering named query: selectExpensiveAssets
+Registering named query: selectAssetsbyOwner
+Generated schemas for all types in business network definition
+Adding schemas for all types to Loopback ...
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Added schemas for all types to Loopback
+Web server listening at: http://localhost:3000
+Browse your REST API at http://localhost:3000/explorer
+Discovering types from business network definition ...
+Discovered types from business network definition
+Generating schemas for all types in business network definition ...
+Registering named query: selectExpensiveAssets
+Registering named query: selectAssetsbyOwner
+Generated schemas for all types in business network definition
+Adding schemas for all types to Loopback ...
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Added schemas for all types to Loopback
+Web server listening at: http://localhost:3000
+Browse your REST API at http://localhost:3000/explorer
+Discovering types from business network definition ...
+Discovered types from business network definition
+Generating schemas for all types in business network definition ...
+Registering named query: selectExpensiveAssets
+Registering named query: selectAssetsbyOwner
+Generated schemas for all types in business network definition
+Adding schemas for all types to Loopback ...
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Added schemas for all types to Loopback
+Web server listening at: http://localhost:3000
+Browse your REST API at http://localhost:3000/explorer
+Unhandled error for request GET /api/org.acme.sample.User/0: Error: Unknown "org_acme_sample_User" id "0".
+    at Function.convertNullToNotFoundError (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback/lib/persisted-model.js:89:17)
+    at invokeRestAfter (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/strong-remoting/lib/rest-adapter.js:531:25)
+    at /home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/async/dist/async.js:3866:24
+    at replenish (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/async/dist/async.js:998:17)
+    at iterateeCallback (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/async/dist/async.js:983:17)
+    at /home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/async/dist/async.js:958:16
+    at /home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/async/dist/async.js:3871:13
+    at interceptInvocationErrors (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/strong-remoting/lib/remote-objects.js:712:22)
+    at /home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/strong-remoting/node_modules/loopback-phase/node_modules/async/lib/async.js:154:25
+    at /home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/strong-remoting/node_modules/loopback-phase/node_modules/async/lib/async.js:154:25
+    at /home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/strong-remoting/node_modules/loopback-phase/node_modules/async/lib/async.js:154:25
+    at execStack (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/strong-remoting/lib/remote-objects.js:521:7)
+    at RemoteObjects.execHooks (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/strong-remoting/lib/remote-objects.js:525:10)
+    at phaseAfterInvoke (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/strong-remoting/lib/remote-objects.js:683:10)
+    at runHandler (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/strong-remoting/node_modules/loopback-phase/lib/phase.js:135:5)
+    at iterate (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/strong-remoting/node_modules/loopback-phase/node_modules/async/lib/async.js:146:13)
+Unhandled error for request GET /api/org.acme.sample.User?filter=%5B%5D: Error: Value is not an object.
+    at errorNotAnObject (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/strong-remoting/lib/types/object.js:80:13)
+    at Object.validate (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/strong-remoting/lib/types/object.js:51:14)
+    at Object.fromTypedValue (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/strong-remoting/lib/types/object.js:14:22)
+    at Object.fromSloppyValue (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/strong-remoting/lib/types/object.js:41:17)
+    at HttpContext.buildArgs (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/strong-remoting/lib/http-context.js:193:21)
+    at new HttpContext (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/strong-remoting/lib/http-context.js:59:20)
+    at restStaticMethodHandler (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/strong-remoting/lib/rest-adapter.js:485:15)
+    at Layer.handle [as handle_request] (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/express/lib/router/layer.js:95:5)
+    at /home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/express/lib/router/index.js:47:12)
+Unhandled error for request GET /api/org.acme.sample.User?filter=*: Error: Value is not an object.
+    at errorNotAnObject (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/strong-remoting/lib/types/object.js:80:13)
+    at Object.validate (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/strong-remoting/lib/types/object.js:51:14)
+    at Object.fromTypedValue (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/strong-remoting/lib/types/object.js:14:22)
+    at Object.fromSloppyValue (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/strong-remoting/lib/types/object.js:41:17)
+    at HttpContext.buildArgs (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/strong-remoting/lib/http-context.js:193:21)
+    at new HttpContext (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/strong-remoting/lib/http-context.js:59:20)
+    at restStaticMethodHandler (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/strong-remoting/lib/rest-adapter.js:485:15)
+    at Layer.handle [as handle_request] (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/express/lib/router/layer.js:95:5)
+    at /home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/express/lib/router/index.js:47:12)
+Unhandled error for request GET /api/queries/selectExpensiveAssets: Error: Error trying to query business network. Error: chaincode error (status: 500, message: Error: http: read on closed response body)
+    at channel.queryByChaincode.then.catch (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-connector-hlfv1/lib/hlfconnection.js:809:34)
+    at <anonymous>
+Unhandled error for request POST /api/org.acme.sample.BuyNewsTransaction: SyntaxError: Unexpected number in JSON at position 67
+    at JSON.parse (<anonymous>)
+    at parse (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/body-parser/lib/types/json.js:88:17)
+    at /home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/body-parser/lib/read.js:116:18
+    at invokeCallback (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/raw-body/index.js:262:16)
+    at done (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/raw-body/index.js:251:7)
+    at IncomingMessage.onEnd (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/raw-body/index.js:307:7)
+    at emitNone (events.js:106:13)
+    at IncomingMessage.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1055:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Unhandled error for request POST /api/org.acme.sample.BuyNewsTransaction: SyntaxError: Unexpected token o in JSON at position 66
+    at JSON.parse (<anonymous>)
+    at parse (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/body-parser/lib/types/json.js:88:17)
+    at /home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/body-parser/lib/read.js:116:18
+    at invokeCallback (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/raw-body/index.js:262:16)
+    at done (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/raw-body/index.js:251:7)
+    at IncomingMessage.onEnd (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/raw-body/index.js:307:7)
+    at emitNone (events.js:106:13)
+    at IncomingMessage.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1055:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Unhandled error for request POST /api/org.acme.sample.Payment: SyntaxError: Unexpected token ' in JSON at position 52
+    at JSON.parse (<anonymous>)
+    at parse (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/body-parser/lib/types/json.js:88:17)
+    at /home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/body-parser/lib/read.js:116:18
+    at invokeCallback (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/raw-body/index.js:262:16)
+    at done (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/raw-body/index.js:251:7)
+    at IncomingMessage.onEnd (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/raw-body/index.js:307:7)
+    at emitNone (events.js:106:13)
+    at IncomingMessage.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1055:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Unhandled error for request POST /api/org.acme.sample.Payment: Error: Error trying invoke business network. Error: No valid responses from any peers.
+Response from attempted peer comms was an error: Error: chaincode error (status: 500, message: Error: Object with ID 'org.acme.sample.User1' in collection with ID 'Participant:org.acme.sample.User' does not exist)
+
+    at _initializeChannel.then.then.then.then.catch (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-connector-hlfv1/lib/hlfconnection.js:916:34)
+    at <anonymous>
+Unhandled error for request POST /api/org.acme.sample.Payment: Error: Error trying invoke business network. Error: No valid responses from any peers.
+Response from attempted peer comms was an error: Error: chaincode error (status: 500, message: Error: You have insufficient funds to complete this transaction!)
+
+    at _initializeChannel.then.then.then.then.catch (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-connector-hlfv1/lib/hlfconnection.js:916:34)
+    at <anonymous>
+Unhandled error for request POST /api/org.acme.sample.ChangeUrl: ValidationError: The `org_acme_sample_ChangeUrl` instance is not valid. Details: `newurl` can't be blank (value: "").
+    at /home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/dao.js:398:12
+    at org_acme_sample_ChangeUrl.<anonymous> (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/validations.js:567:11)
+    at org_acme_sample_ChangeUrl.next (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/hooks.js:93:12)
+    at org_acme_sample_ChangeUrl.<anonymous> (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/validations.js:564:23)
+    at org_acme_sample_ChangeUrl.trigger (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/hooks.js:83:12)
+    at org_acme_sample_ChangeUrl.Validatable.isValid (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/validations.js:530:8)
+    at /home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/dao.js:394:9
+    at doNotify (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:155:49)
+    at doNotify (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:155:49)
+    at doNotify (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:155:49)
+    at doNotify (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:155:49)
+    at Function.ObserverMixin._notifyBaseObservers (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:178:5)
+    at Function.ObserverMixin.notifyObserversOf (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:153:8)
+    at Function.ObserverMixin._notifyBaseObservers (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:176:15)
+    at Function.ObserverMixin.notifyObserversOf (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:153:8)
+    at Function.ObserverMixin._notifyBaseObservers (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:176:15)
+Unhandled error for request POST /api/org.acme.sample.Newsdata: Error: Invalid JSON data. Found a value that is not a string: 2 for relationship RelationshipDeclaration {name=publisher, type=org.acme.sample.User, array=false, optional=false}
+    at JSONPopulator.visitRelationshipDeclaration (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-common/lib/serializer/jsonpopulator.js:249:27)
+    at JSONPopulator.visit (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-common/lib/serializer/jsonpopulator.js:58:25)
+    at RelationshipDeclaration.accept (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-common/lib/introspect/decorated.js:54:24)
+    at JSONPopulator.visitClassDeclaration (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-common/lib/serializer/jsonpopulator.js:83:60)
+    at JSONPopulator.visit (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-common/lib/serializer/jsonpopulator.js:56:25)
+    at AssetDeclaration.accept (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-common/lib/introspect/decorated.js:54:24)
+    at Serializer.fromJSON (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-common/lib/serializer.js:180:26)
+    at ensureConnected.then (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-connector-composer/lib/businessnetworkconnector.js:634:43)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Unhandled error for request POST /api/org.acme.sample.Newsdata: Error: Invalid JSON data. Found a value that is not a string: 2 for relationship RelationshipDeclaration {name=publisher, type=org.acme.sample.User, array=false, optional=false}
+    at JSONPopulator.visitRelationshipDeclaration (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-common/lib/serializer/jsonpopulator.js:249:27)
+    at JSONPopulator.visit (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-common/lib/serializer/jsonpopulator.js:58:25)
+    at RelationshipDeclaration.accept (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-common/lib/introspect/decorated.js:54:24)
+    at JSONPopulator.visitClassDeclaration (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-common/lib/serializer/jsonpopulator.js:83:60)
+    at JSONPopulator.visit (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-common/lib/serializer/jsonpopulator.js:56:25)
+    at AssetDeclaration.accept (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-common/lib/introspect/decorated.js:54:24)
+    at Serializer.fromJSON (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-common/lib/serializer.js:180:26)
+    at ensureConnected.then (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-connector-composer/lib/businessnetworkconnector.js:634:43)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Unhandled error for request POST /api/org.acme.sample.Newsdata: Error: Invalid JSON data. Found a value that is not a string: 2 for relationship RelationshipDeclaration {name=publisher, type=org.acme.sample.User, array=false, optional=false}
+    at JSONPopulator.visitRelationshipDeclaration (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-common/lib/serializer/jsonpopulator.js:249:27)
+    at JSONPopulator.visit (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-common/lib/serializer/jsonpopulator.js:58:25)
+    at RelationshipDeclaration.accept (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-common/lib/introspect/decorated.js:54:24)
+    at JSONPopulator.visitClassDeclaration (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-common/lib/serializer/jsonpopulator.js:83:60)
+    at JSONPopulator.visit (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-common/lib/serializer/jsonpopulator.js:56:25)
+    at AssetDeclaration.accept (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-common/lib/introspect/decorated.js:54:24)
+    at Serializer.fromJSON (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-common/lib/serializer.js:180:26)
+    at ensureConnected.then (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-connector-composer/lib/businessnetworkconnector.js:634:43)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Unhandled error for request POST /api/org.acme.sample.Newsdata: ValidationError: The `org_acme_sample_Newsdata` instance is not valid. Details: `published` can't be blank (value: undefined).
+    at /home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/dao.js:398:12
+    at org_acme_sample_Newsdata.<anonymous> (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/validations.js:567:11)
+    at org_acme_sample_Newsdata.next (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/hooks.js:93:12)
+    at org_acme_sample_Newsdata.<anonymous> (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/validations.js:564:23)
+    at org_acme_sample_Newsdata.trigger (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/hooks.js:83:12)
+    at org_acme_sample_Newsdata.Validatable.isValid (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/validations.js:530:8)
+    at /home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/dao.js:394:9
+    at doNotify (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:155:49)
+    at doNotify (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:155:49)
+    at doNotify (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:155:49)
+    at doNotify (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:155:49)
+    at Function.ObserverMixin._notifyBaseObservers (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:178:5)
+    at Function.ObserverMixin.notifyObserversOf (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:153:8)
+    at Function.ObserverMixin._notifyBaseObservers (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:176:15)
+    at Function.ObserverMixin.notifyObserversOf (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:153:8)
+    at Function.ObserverMixin._notifyBaseObservers (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:176:15)
+Unhandled error for request POST /api/org.acme.sample.Newsdata: Error: Invalid JSON data. Found a value that is not a string: 2 for relationship RelationshipDeclaration {name=publisher, type=org.acme.sample.User, array=false, optional=false}
+    at JSONPopulator.visitRelationshipDeclaration (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-common/lib/serializer/jsonpopulator.js:249:27)
+    at JSONPopulator.visit (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-common/lib/serializer/jsonpopulator.js:58:25)
+    at RelationshipDeclaration.accept (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-common/lib/introspect/decorated.js:54:24)
+    at JSONPopulator.visitClassDeclaration (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-common/lib/serializer/jsonpopulator.js:83:60)
+    at JSONPopulator.visit (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-common/lib/serializer/jsonpopulator.js:56:25)
+    at AssetDeclaration.accept (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-common/lib/introspect/decorated.js:54:24)
+    at Serializer.fromJSON (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-common/lib/serializer.js:180:26)
+    at ensureConnected.then (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-connector-composer/lib/businessnetworkconnector.js:634:43)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Unhandled error for request GET /api/queries/selectExpensiveAssets: Error: Error trying to query business network. Error: chaincode error (status: 500, message: Error: http: read on closed response body)
+    at channel.queryByChaincode.then.catch (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-connector-hlfv1/lib/hlfconnection.js:809:34)
+    at <anonymous>
+Unhandled error for request POST /api/org.acme.sample.Newsdata: Error: Error trying invoke business network. Error: No valid responses from any peers.
+Response from attempted peer comms was an error: Error: chaincode error (status: 500, message: Error: Failed to add object with ID '5' as the object already exists)
+
+    at _initializeChannel.then.then.then.then.catch (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-connector-hlfv1/lib/hlfconnection.js:916:34)
+    at <anonymous>
+Unhandled error for request POST /api/org.acme.sample.Newsdata: Error: Error trying invoke business network. Error: No valid responses from any peers.
+Response from attempted peer comms was an error: Error: chaincode error (status: 500, message: Error: Failed to add object with ID '5' as the object already exists)
+
+    at _initializeChannel.then.then.then.then.catch (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-connector-hlfv1/lib/hlfconnection.js:916:34)
+    at <anonymous>
+Discovering types from business network definition ...
+Discovered types from business network definition
+Generating schemas for all types in business network definition ...
+Registering named query: selectAssetsbyOwner
+Generated schemas for all types in business network definition
+Adding schemas for all types to Loopback ...
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Added schemas for all types to Loopback
+Web server listening at: http://localhost:3000
+Browse your REST API at http://localhost:3000/explorer
+Discovering types from business network definition ...
+Discovered types from business network definition
+Generating schemas for all types in business network definition ...
+Registering named query: selectAssetsbyOwner
+Generated schemas for all types in business network definition
+Adding schemas for all types to Loopback ...
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Added schemas for all types to Loopback
+Web server listening at: http://localhost:3000
+Browse your REST API at http://localhost:3000/explorer
+Discovering types from business network definition ...
+Discovered types from business network definition
+Generating schemas for all types in business network definition ...
+Registering named query: selectAssetsbyOwner
+Generated schemas for all types in business network definition
+Adding schemas for all types to Loopback ...
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Added schemas for all types to Loopback
+Web server listening at: http://localhost:3000
+Browse your REST API at http://localhost:3000/explorer
+Discovering types from business network definition ...
+Discovered types from business network definition
+Generating schemas for all types in business network definition ...
+Registering named query: selectAssetsbyOwner
+Generated schemas for all types in business network definition
+Adding schemas for all types to Loopback ...
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Added schemas for all types to Loopback
+Web server listening at: http://localhost:3000
+Browse your REST API at http://localhost:3000/explorer
+Unhandled error for request POST /api/org.acme.sample.ChangeUrl: ValidationError: The `org_acme_sample_ChangeUrl` instance is not valid. Details: `newurl` can't be blank (value: undefined).
+    at /home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/dao.js:398:12
+    at org_acme_sample_ChangeUrl.<anonymous> (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/validations.js:567:11)
+    at org_acme_sample_ChangeUrl.next (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/hooks.js:93:12)
+    at org_acme_sample_ChangeUrl.<anonymous> (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/validations.js:564:23)
+    at org_acme_sample_ChangeUrl.trigger (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/hooks.js:83:12)
+    at org_acme_sample_ChangeUrl.Validatable.isValid (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/validations.js:530:8)
+    at /home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/dao.js:394:9
+    at doNotify (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:155:49)
+    at doNotify (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:155:49)
+    at doNotify (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:155:49)
+    at doNotify (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:155:49)
+    at Function.ObserverMixin._notifyBaseObservers (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:178:5)
+    at Function.ObserverMixin.notifyObserversOf (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:153:8)
+    at Function.ObserverMixin._notifyBaseObservers (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:176:15)
+    at Function.ObserverMixin.notifyObserversOf (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:153:8)
+    at Function.ObserverMixin._notifyBaseObservers (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:176:15)
+Unhandled error for request POST /api/org.acme.sample.ChangeUrl: ValidationError: The `org_acme_sample_ChangeUrl` instance is not valid. Details: `newurl` can't be blank (value: undefined).
+    at /home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/dao.js:398:12
+    at org_acme_sample_ChangeUrl.<anonymous> (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/validations.js:567:11)
+    at org_acme_sample_ChangeUrl.next (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/hooks.js:93:12)
+    at org_acme_sample_ChangeUrl.<anonymous> (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/validations.js:564:23)
+    at org_acme_sample_ChangeUrl.trigger (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/hooks.js:83:12)
+    at org_acme_sample_ChangeUrl.Validatable.isValid (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/validations.js:530:8)
+    at /home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/dao.js:394:9
+    at doNotify (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:155:49)
+    at doNotify (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:155:49)
+    at doNotify (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:155:49)
+    at doNotify (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:155:49)
+    at Function.ObserverMixin._notifyBaseObservers (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:178:5)
+    at Function.ObserverMixin.notifyObserversOf (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:153:8)
+    at Function.ObserverMixin._notifyBaseObservers (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:176:15)
+    at Function.ObserverMixin.notifyObserversOf (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:153:8)
+    at Function.ObserverMixin._notifyBaseObservers (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:176:15)
+Discovering types from business network definition ...
+Discovered types from business network definition
+Generating schemas for all types in business network definition ...
+Registering named query: selectAssetsbyOwner
+Generated schemas for all types in business network definition
+Adding schemas for all types to Loopback ...
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Added schemas for all types to Loopback
+Web server listening at: http://localhost:3000
+Browse your REST API at http://localhost:3000/explorer
+Unhandled error for request GET /api/org.acme.sample.User?filter=%7B%7D: Error: Error trying to query business network. Error: Connect Failed
+    at channel.queryByChaincode.then.catch (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-connector-hlfv1/lib/hlfconnection.js:809:34)
+    at <anonymous>
+Unhandled error for request GET /api/org.acme.sample.Payment?filter=%7B%7D: Error: Error trying to query business network. Error: Connect Failed
+    at channel.queryByChaincode.then.catch (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-connector-hlfv1/lib/hlfconnection.js:809:34)
+    at <anonymous>
+Unhandled error for request GET /api/org.acme.sample.BuyNewsTransaction?filter=%7B%7D: Error: Error trying to query business network. Error: Connect Failed
+    at channel.queryByChaincode.then.catch (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-connector-hlfv1/lib/hlfconnection.js:809:34)
+    at <anonymous>
+Unhandled error for request GET /api/org.acme.sample.Newsdata?filter=%7B%7D: Error: Error trying to query business network. Error: Connect Failed
+    at channel.queryByChaincode.then.catch (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-connector-hlfv1/lib/hlfconnection.js:809:34)
+    at <anonymous>
+Discovering types from business network definition ...
+Discovered types from business network definition
+Generating schemas for all types in business network definition ...
+Registering named query: selectAssetsbyOwner
+Generated schemas for all types in business network definition
+Adding schemas for all types to Loopback ...
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Added schemas for all types to Loopback
+Web server listening at: http://localhost:3000
+Browse your REST API at http://localhost:3000/explorer
+Unhandled error for request POST /api/org.acme.sample.ChangeUrl: ValidationError: The `org_acme_sample_ChangeUrl` instance is not valid. Details: `newurl` can't be blank (value: undefined).
+    at /home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/dao.js:398:12
+    at org_acme_sample_ChangeUrl.<anonymous> (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/validations.js:567:11)
+    at org_acme_sample_ChangeUrl.next (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/hooks.js:93:12)
+    at org_acme_sample_ChangeUrl.<anonymous> (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/validations.js:564:23)
+    at org_acme_sample_ChangeUrl.trigger (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/hooks.js:83:12)
+    at org_acme_sample_ChangeUrl.Validatable.isValid (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/validations.js:530:8)
+    at /home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/dao.js:394:9
+    at doNotify (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:155:49)
+    at doNotify (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:155:49)
+    at doNotify (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:155:49)
+    at doNotify (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:155:49)
+    at Function.ObserverMixin._notifyBaseObservers (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:178:5)
+    at Function.ObserverMixin.notifyObserversOf (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:153:8)
+    at Function.ObserverMixin._notifyBaseObservers (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:176:15)
+    at Function.ObserverMixin.notifyObserversOf (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:153:8)
+    at Function.ObserverMixin._notifyBaseObservers (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:176:15)
+Unhandled error for request POST /api/org.acme.sample.ChangeUrl: ValidationError: The `org_acme_sample_ChangeUrl` instance is not valid. Details: `newurl` can't be blank (value: undefined).
+    at /home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/dao.js:398:12
+    at org_acme_sample_ChangeUrl.<anonymous> (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/validations.js:567:11)
+    at org_acme_sample_ChangeUrl.next (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/hooks.js:93:12)
+    at org_acme_sample_ChangeUrl.<anonymous> (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/validations.js:564:23)
+    at org_acme_sample_ChangeUrl.trigger (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/hooks.js:83:12)
+    at org_acme_sample_ChangeUrl.Validatable.isValid (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/validations.js:530:8)
+    at /home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/dao.js:394:9
+    at doNotify (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:155:49)
+    at doNotify (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:155:49)
+    at doNotify (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:155:49)
+    at doNotify (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:155:49)
+    at Function.ObserverMixin._notifyBaseObservers (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:178:5)
+    at Function.ObserverMixin.notifyObserversOf (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:153:8)
+    at Function.ObserverMixin._notifyBaseObservers (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:176:15)
+    at Function.ObserverMixin.notifyObserversOf (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:153:8)
+    at Function.ObserverMixin._notifyBaseObservers (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/loopback-datasource-juggler/lib/observer.js:176:15)
+Unhandled error for request GET /api/org.acme.sample.User?filter=%7B%7D: Error: Error trying to query business network. Error: chaincode error (status: 500, message: Error: Get http://couchdb:5984/composerchannel/news-network%00%00$syscollections%00$sysdata%00?attachments=true: dial tcp 172.22.0.4:5984: getsockopt: connection refused)
+    at channel.queryByChaincode.then.catch (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-connector-hlfv1/lib/hlfconnection.js:809:34)
+    at <anonymous>
+Unhandled error for request GET /api/org.acme.sample.Newsdata?filter=%7B%7D: Error: Error trying to query business network. Error: transaction not found Get http://couchdb:5984/composerchannel/lscc%00news-network?attachments=true: dial tcp 172.22.0.4:5984: getsockopt: connection refused - make sure the chaincode news-network has been successfully instantiated and try again
+    at channel.queryByChaincode.then.catch (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-connector-hlfv1/lib/hlfconnection.js:809:34)
+    at <anonymous>
+Unhandled error for request GET /api/org.acme.sample.Payment?filter=%7B%7D: Error: Error trying to query business network. Error: transaction not found Get http://couchdb:5984/composerchannel/lscc%00news-network?attachments=true: dial tcp 172.22.0.4:5984: getsockopt: connection refused - make sure the chaincode news-network has been successfully instantiated and try again
+    at channel.queryByChaincode.then.catch (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-connector-hlfv1/lib/hlfconnection.js:809:34)
+    at <anonymous>
+Unhandled error for request GET /api/org.acme.sample.BuyNewsTransaction?filter=%7B%7D: Error: Error trying to query business network. Error: transaction not found Get http://couchdb:5984/composerchannel/lscc%00news-network?attachments=true: dial tcp 172.22.0.4:5984: getsockopt: connection refused - make sure the chaincode news-network has been successfully instantiated and try again
+    at channel.queryByChaincode.then.catch (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-connector-hlfv1/lib/hlfconnection.js:809:34)
+    at <anonymous>
+Unhandled error for request GET /api/org.acme.sample.User?filter=%7B%7D: Error: Error trying to query business network. Error: transaction not found Get http://couchdb:5984/composerchannel/lscc%00news-network?attachments=true: dial tcp: lookup couchdb on 127.0.0.11:53: no such host - make sure the chaincode news-network has been successfully instantiated and try again
+    at channel.queryByChaincode.then.catch (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-connector-hlfv1/lib/hlfconnection.js:809:34)
+    at <anonymous>
+Unhandled error for request GET /api/org.acme.sample.User?filter=%7B%7D: Error: Error trying to query business network. Error: transaction not found Get http://couchdb:5984/composerchannel/lscc%00news-network?attachments=true: dial tcp: lookup couchdb on 127.0.0.11:53: no such host - make sure the chaincode news-network has been successfully instantiated and try again
+    at channel.queryByChaincode.then.catch (/home/user/.nvm/versions/node/v8
+Discovering types from business network definition ...
+Discovered types from business network definition
+Generating schemas for all types in business network definition ...
+Registering named query: selectAssetsbyOwner
+Generated schemas for all types in business network definition
+Adding schemas for all types to Loopback ...
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Swagger: skipping unknown type "org.acme.sample.Newsdata".
+Added schemas for all types to Loopback
+Web server listening at: http://localhost:3000
+Browse your REST API at http://localhost:3000/explorer
+Unhandled error for request GET /api/org.acme.sample.User?filter=%7B%7D: Error: Error trying to query business network. Error: chaincode error (status: 500, message: Error: Get http://couchdb:5984/composerchannel/news-network%00%00$sysdata%00businessnetwork%00?attachments=true: dial tcp 172.22.0.3:5984: getsockopt: connection refused)
+    at channel.queryByChaincode.then.catch (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-connector-hlfv1/lib/hlfconnection.js:809:34)
+    at <anonymous>
+Unhandled error for request GET /api/org.acme.sample.Newsdata?filter=%7B%7D: Error: Error trying to query business network. Error: transaction not found Get http://couchdb:5984/composerchannel/lscc%00news-network?attachments=true: dial tcp 172.22.0.3:5984: getsockopt: connection refused - make sure the chaincode news-network has been successfully instantiated and try again
+    at channel.queryByChaincode.then.catch (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-connector-hlfv1/lib/hlfconnection.js:809:34)
+    at <anonymous>
+Unhandled error for request GET /api/org.acme.sample.Payment?filter=%7B%7D: Error: Error trying to query business network. Error: transaction not found Get http://couchdb:5984/composerchannel/lscc%00news-network?attachments=true: dial tcp 172.22.0.3:5984: getsockopt: connection refused - make sure the chaincode news-network has been successfully instantiated and try again
+    at channel.queryByChaincode.then.catch (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-connector-hlfv1/lib/hlfconnection.js:809:34)
+    at <anonymous>
+Unhandled error for request GET /api/org.acme.sample.BuyNewsTransaction?filter=%7B%7D: Error: Error trying to query business network. Error: transaction not found Get http://couchdb:5984/composerchannel/lscc%00news-network?attachments=true: dial tcp 172.22.0.3:5984: getsockopt: connection refused - make sure the chaincode news-network has been successfully instantiated and try again
+    at channel.queryByChaincode.then.catch (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-connector-hlfv1/lib/hlfconnection.js:809:34)
+    at <anonymous>
+Unhandled error for request GET /api/org.acme.sample.User?filter=%7B%7D: Error: Error trying to query business network. Error: transaction not found Get http://couchdb:5984/composerchannel/lscc%00news-network?attachments=true: dial tcp: lookup couchdb on 127.0.0.11:53: no such host - make sure the chaincode news-network has been successfully instantiated and try again
+    at channel.queryByChaincode.then.catch (/home/user/.nvm/versions/node/v8.9.4/lib/node_modules/composer-rest-server/node_modules/composer-connector-hlfv1/lib/hlfconnection.js:809:34)
+    at <anonymous>
+Unhandled error for request GET /api/org.acme.sample.Newsdata?filter=%7B%7D: Error: Error trying to query business network. Error: transaction not found Get http://couchdb:5984/composerchannel/lscc%00news-network?attachments=true: dial tcp: lookup couchdb on 127.0.0.11:53: no such host - make sure the chaincode news-network has been successfully instantiated and try again
+    at channel.queryByChainc

@@ -1,0 +1,15 @@
+/**
+********************************* 
+*Queries for our demo Application
+*********************************
+*/
+
+
+query selectAssetsbyOwner {
+  description: "Select all assets based on their publisher"
+  statement:
+      SELECT org.acme.sample.Newsdata
+	   WHERE (publisher == _$publisher)
+       
+}
+
