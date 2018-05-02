@@ -14,5 +14,22 @@ Participants : Media Content Publishers and Consumers
 * Query powered from Hyperledger Composer (Extra Feature)
 * Changing Metadata powered from Hyperledger Composer (Extra Feature)
 * Simple token payments
+* Exploring all transactions in blockchain using Hyperledger Explorer Project at https://localhost:9090
+
+
+## Prerequisites
+* Hyperledger Fabric Installation
+* Hyperledger Explorer Installation
+* MySQL
+* Hyperledger Explorer Ιnstallation
+
+## Starting Fabric
+```
+cd fabric-dev-servers
+./startFabric.sh
+./createComposerProfile.sh
+./createPeerAdminCard.sh
+```
+
 
 To be completed...
